@@ -5,7 +5,7 @@ Welcome to the AI Workshop repository! This repository contains materials from a
 ## Workshop Contents
 
 ### 1. Data Cleaning
-- In the [Data Cleaning notebook](link/to/data_cleaning_notebook.ipynb), we delve into the crucial process of preparing raw text data for analysis. Techniques include handling missing values, removing duplicates, and addressing noisy or inconsistent data.
+- In the [Data Cleaning notebook](https://github.com/Kind-Unes/AI-Camp23/introduction.ipynb), we delve into the crucial process of preparing raw text data for analysis. Techniques include handling missing values, removing duplicates, and addressing noisy or inconsistent data.
 
 ### 2. Word Embedding with Word2Vec
 - #### Skipgrams
