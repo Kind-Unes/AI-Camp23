@@ -2,6 +2,11 @@
 
 Welcome to the AI Workshop repository! This repository contains materials from a comprehensive workshop on Natural Language Processing (NLP) concepts. Whether you're a beginner or an experienced developer, these resources will guide you through data cleaning, word embedding using Word2Vec (Skipgrams and CBOW), and the Bag of Words model. The workshop employs popular NLP libraries such as Spacy, NLTK, and scikit-learn.
 
+
+### Workshop Poster
+
+![Workshop Poster](https://github.com/Kind-Unes/AI-Camp23/blob/master/Intro_to_NLP.webp)
+
 ## Workshop Contents
 
 ### 1. Data Cleaning
@@ -21,10 +26,6 @@ Welcome to the AI Workshop repository! This repository contains materials from a
 
 - [Theoretical Overview](https://github.com/Kind-Unes/AI-Camp23/blob/master/Into%20to%20NLP.pptx)
   - Dive into the theoretical aspects of the concepts covered in the workshop. Gain insights into the underlying principles of data cleaning, word embedding, and the Bag of Words model.
-
-### Workshop Poster
-
-![Workshop Poster](https://github.com/Kind-Unes/AI-Camp23/blob/master/Intro_to_NLP.webp)
 
 ## How to Use
 
